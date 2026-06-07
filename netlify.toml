@@ -1,0 +1,9 @@
+[[redirects]]
+  from = "/c/*"
+  to = "/cotizai_form.html"
+  status = 200
+
+[[redirects]]
+  from = "/admin"
+  to = "/cotizai_admin.html"
+  status = 200
